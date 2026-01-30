@@ -61,11 +61,4 @@ npm start
 - Stress event:
   - A scenario is “stressed” if `moisturePct` dips below threshold on **any** day.
 
-## ZIP Packaging
-
-To zip the project (excluding `node_modules`) from the repository root:
-
-```bash
-zip -r risk-aware-irrigation-lab-mvp.zip . -x "node_modules/*" -x ".next/*" -x "*.zip"
-```
 
