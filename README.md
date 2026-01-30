@@ -60,5 +60,8 @@ npm start
   - `moisturePct = 100 * (S - WiltingPoint) / (FieldCapacity - WiltingPoint)` (clamped 0–100)
 - Stress event:
   - A scenario is “stressed” if `moisturePct` dips below threshold on **any** day.
+## Model explain: 
+https://drive.google.com/file/d/1FaL0I6ZFcO-AtPvmLJOawaDrHg1C1XEk/view?usp=drive_link
 
+## Live Demo:
 
