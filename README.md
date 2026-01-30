@@ -64,4 +64,5 @@ npm start
 https://drive.google.com/file/d/1FaL0I6ZFcO-AtPvmLJOawaDrHg1C1XEk/view?usp=drive_link
 
 ## Live Demo:
+https://jalshakti-risk-aware-irrigation-lab.vercel.app/
 
